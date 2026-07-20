@@ -1,0 +1,6 @@
+# Personal files
+personal/
+
+# Python
+__pycache__/
+*.pyc
